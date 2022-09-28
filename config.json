@@ -1,0 +1,19 @@
+{
+    "info": {
+        "name": "Example Plugin",
+        "authors": [{
+            "name": "TheNickm2",
+            "discord_id": "441377078634610688",
+            "github_username": "TheNickm2",
+            "twitter_username": "TheNickm2"
+        }],
+        "version": "0.0.1",
+        "description": "Stop telling other people that you're typing!",
+        "github": "",
+        "github_raw": ""
+    },
+    "changelog": [
+        {"title": "A New Plugin Appeared!", "items": ["Initial plugin"]}
+    ],
+    "main": "index.js"
+}
