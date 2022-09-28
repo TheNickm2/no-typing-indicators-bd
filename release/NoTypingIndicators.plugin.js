@@ -5,7 +5,7 @@
  * @author TheNickm2
  * @authorId 441377078634610688
  * @website https://github.com/TheNickm2/no-typing-indicators-bd
- * @source https://github.com/TheNickm2/no-typing-indicators-bd/blob/main/release/NoTypingIndicators.plugin.js
+ * @source https://raw.githubusercontent.com/TheNickm2/no-typing-indicators-bd/main/release/NoTypingIndicators.plugin.js
  */
 /*@cc_on
 @if (@_jscript)
@@ -30,7 +30,7 @@
     WScript.Quit();
 
 @else@*/
-const config = {"info":{"name":"No Typing Indicators","authors":[{"name":"TheNickm2","discord_id":"441377078634610688","github_username":"TheNickm2","twitter_username":"TheNickm2"}],"version":"1.0.0","description":"Extraordinarily basic plugin to stop telling other people that you're typing!","github":"https://github.com/TheNickm2/no-typing-indicators-bd","github_raw":"https://github.com/TheNickm2/no-typing-indicators-bd/blob/main/release/NoTypingIndicators.plugin.js"},"changelog":[{"title":"A Wild Plugin Appeared!","items":["Initial plugin creation."]}],"main":"index.js"};
+const config = {"info":{"name":"No Typing Indicators","authors":[{"name":"TheNickm2","discord_id":"441377078634610688","github_username":"TheNickm2","twitter_username":"TheNickm2"}],"version":"1.0.0","description":"Extraordinarily basic plugin to stop telling other people that you're typing!","github":"https://github.com/TheNickm2/no-typing-indicators-bd","github_raw":"https://raw.githubusercontent.com/TheNickm2/no-typing-indicators-bd/main/release/NoTypingIndicators.plugin.js"},"changelog":[{"title":"A Wild Plugin Appeared!","items":["Initial plugin creation."]}],"main":"index.js"};
 class Dummy {
     constructor() {this._config = config;}
     start() {}

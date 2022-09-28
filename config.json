@@ -10,7 +10,7 @@
         "version": "1.0.0",
         "description": "Extraordinarily basic plugin to stop telling other people that you're typing!",
         "github": "https://github.com/TheNickm2/no-typing-indicators-bd",
-        "github_raw": "https://github.com/TheNickm2/no-typing-indicators-bd/blob/main/release/NoTypingIndicators.plugin.js"
+        "github_raw": "https://raw.githubusercontent.com/TheNickm2/no-typing-indicators-bd/main/release/NoTypingIndicators.plugin.js"
     },
     "changelog": [
         {"title": "A Wild Plugin Appeared!", "items": ["Initial plugin creation."]}
